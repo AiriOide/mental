@@ -1,0 +1,50 @@
+[31-Dec-2024 18:40:32 Europe/Berlin] 2024-12-31 18:40:32 - スクリプト開始
+[31-Dec-2024 18:40:32 Europe/Berlin] 2024-12-31 18:40:32 - DB接続成功
+[31-Dec-2024 18:40:32 Europe/Berlin] 2024-12-31 18:40:32 - ログインチェック完了
+[31-Dec-2024 18:40:32 Europe/Berlin] 2024-12-31 18:40:32 - API設定読み込み完了
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - スクリプト開始
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - DB接続成功
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - ログインチェック完了
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - API設定読み込み完了
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - AJAXリクエスト受信: Array
+(
+    [ajax] => 1
+    [message] => こんにちは
+)
+
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - 受信メッセージ: Array
+(
+    [message] => こんにちは
+    [user_id] => 0
+)
+
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - 致命的なエラー: Array
+(
+    [message] => There is no active transaction
+    [file] => C:\xampp\htdocs\php\mental\chat.php
+    [line] => 83
+)
+
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - スクリプト開始
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - DB接続成功
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - ログインチェック完了
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - API設定読み込み完了
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - AJAXリクエスト受信: Array
+(
+    [ajax] => 1
+    [message] => こんにちは
+)
+
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - 受信メッセージ: Array
+(
+    [message] => こんにちは
+    [user_id] => 0
+)
+
+[31-Dec-2024 18:40:39 Europe/Berlin] 2024-12-31 18:40:39 - 致命的なエラー: Array
+(
+    [message] => There is no active transaction
+    [file] => C:\xampp\htdocs\php\mental\chat.php
+    [line] => 83
+)
+

@@ -1,0 +1,8 @@
+curl --location --request POST 'https://api.dify.ai/v1' \
+--header 'Authorization: Bearer app-XNg3F51P16K35YsmGPDaaajO' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "inputs": {},
+    "response_mode": "streaming",
+    "user": "abc-123"
+}'
